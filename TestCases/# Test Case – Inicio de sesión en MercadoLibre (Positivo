@@ -1,0 +1,19 @@
+**Descripción:**  
+Verificar que un usuario pueda iniciar sesión correctamente en MercadoLibre.  
+
+**Pasos para ejecutar:**  
+1. Abrir https://www.mercadolibre.com  
+2. Hacer click en “Ingresar”  
+3. Ingresar correo electrónico y contraseña válidos  
+4. Hacer click en “Entrar”  
+
+**Resultado esperado:**  
+El usuario accede a su cuenta y se muestra su perfil correctamente.  
+
+**Resultado obtenido:**  
+Inicio de sesión exitoso, usuario accedió a su cuenta.  
+
+**Evidencia:**  
+![Captura simulada](https://via.placeholder.com/400x200.png?text=Login+MercadoLibre)  
+
+**Estado:** ✅ Passed
