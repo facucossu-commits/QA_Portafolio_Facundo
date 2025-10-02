@@ -44,5 +44,5 @@ Soy aspirante a **QA Manual Junior**, con experiencia práctica en:
 ---
 
 ## 📬 Contacto
-- GitHub: [https://github.com/tuusuario/QA_Portafolio_Facundo](https://github.com/tuusuario/QA_Portafolio_Facundo)  
+- GitHub: [https://github.com/tuusuario/QA_Portafolio_Facundo](https://github.com/facucossu-commits/QA_Portafolio_Facundo)  
 - Email: [facucossu@gmail.com]
