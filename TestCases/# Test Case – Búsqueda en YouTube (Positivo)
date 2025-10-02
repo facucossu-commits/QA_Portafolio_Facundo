@@ -1,0 +1,18 @@
+**Descripción:**  
+Validar que el buscador de YouTube responda correctamente al ingresar una palabra clave y muestre los resultados esperados.
+
+**Pasos para ejecutar:**  
+1. Abrir https://www.youtube.com  
+2. Escribir "Tutorial QA" en el buscador  
+3. Presionar Enter  
+
+**Resultado esperado:**  
+Se muestran videos relacionados con la búsqueda “HolaMundo”.  
+
+**Resultado obtenido:**  
+El sistema respondió correctamente, mostrando resultados relevantes.  
+
+**Evidencia:**  
+![Captura simulada](https://via.placeholder.com/400x200.png?text=Resultados+YouTube)  
+
+**Estado:** ✅ Passed
