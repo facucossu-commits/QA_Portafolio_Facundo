@@ -1,0 +1,19 @@
+**Descripción:**  
+Verificar que un producto seleccionado se agregue correctamente al carrito de Amazon.
+
+**Pasos para ejecutar:**  
+1. Abrir https://www.amazon.com  
+2. Buscar "Auriculares Bluetooth"  
+3. Seleccionar el primer producto  
+4. Hacer click en “Agregar al carrito”  
+
+**Resultado esperado:**  
+El producto se agrega correctamente al carrito y se actualiza el contador.  
+
+**Resultado obtenido:**  
+El sistema respondió correctamente, producto agregado al carrito.  
+
+**Evidencia:**  
+![Captura simulada](https://via.placeholder.com/400x200.png?text=Producto+agregado)  
+
+**Estado:** ✅ Passed
